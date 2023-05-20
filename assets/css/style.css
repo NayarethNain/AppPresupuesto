@@ -1,0 +1,46 @@
+
+    /*tabla principal */
+    #tabla_principal {
+        border: none;
+      }
+    
+      /* formularios */
+    .form1 {
+        background-color: #D9F9D6; 
+        padding: 20px; 
+        margin-bottom: 30px; 
+        border-radius: 15px; 
+      }
+      
+      .form2 {
+        background-color: #FBC7CD; 
+        padding: 20px; 
+        margin-bottom: 30px; 
+        border-radius: 15px; 
+      }
+    
+    
+      .container-fluid .form1 {
+        border: 2px solid green;
+        margin: 10px;
+        padding: 20px;
+      }
+      
+    
+      .container-fluid .form2 {
+        border: 2px solid red;
+        margin: 10px;
+        padding: 20px;
+      }
+    
+        /* botones */
+        button {
+          margin-top: 10px; 
+          border-radius: 5px; 
+        }
+       
+    
+        /* titulo*/
+      h1 {
+        font-family: 'Monofett', cursive;
+      }
